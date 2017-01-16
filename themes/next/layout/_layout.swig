@@ -75,3 +75,10 @@
 </body>
 </html>
 
+<!-- 背景动画 -->
+<!-- 默认灰色线条-->
+<!--<script type="text/javascript" src="/js/src/particle.js"></script>-->
+<!-- 浅蓝色线条-->
+<script type="text/javascript" src="/js/src/particle.js" count="50" zindex="-2" opacity="1" color="84,255,159"></script>
+<script type="text/javascript" src="/js/src/particle.js" count="50" zindex="-2" opacity="1" color="255,69,0"></script>
+<!--<script type="text/javascript" src="/js/src/particle.js" count="50" zindex="-20" opacity="1" color="100,149,237"></script>-->

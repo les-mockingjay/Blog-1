@@ -3,12 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
-timezone:
+title: 海球滴 Blog
+subtitle: ◕‿◕ But how could you live and have no stories to tell... ◕‿◕
+description: (ง •̀_•́)ง 不负今日*活出态度 乀(ˉεˉ乀)
+author: Vito Wong
+language: zh-hk
+timezone: Asia/Shanghai
+avatar: http://ojifsovoq.bkt.clouddn.com/avatar.png
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -64,6 +65,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
