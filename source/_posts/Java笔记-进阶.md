@@ -880,6 +880,7 @@ ListIterator扩展迭代器允许列表和元素的修饰双向遍历。
 ### 含义
 以不同方式整理一个给定集合中所有数量或用于任何类（甚至类，我们不能修改）任何实例进行排序。
 ### 比较器方法及描述
+<<<<<<< HEAD
 [Java比较器](http://www.yiibai.com/java/java_using_comparator.html)的实例方法的列表
 
 # Java Enumeration接口
@@ -1034,6 +1035,22 @@ bits2 XOR bits1:
 |2|Vector(int size)|创建其初始容量由size指定的向量|
 |3|Vector(int size, int incr)|创建其初始容量是由大小和由incr指定的增量指定。增量指定元素的数目，以在每次分配该载体被向上调整|
 |4|Vector(Collection c)|创建一个包含集合c的元素的向量|
+=======
+[Java比较器]()的实例方法的列表
+## 总结
+
+
+# Java Enumeration接口
+## 导语 
+## 例子：
+
+# Java BitSet类
+## 导语
+## 例子：
+
+# Java Vector类
+## 导语 
+>>>>>>> 9539ece9e3229e73ec73fcb77e78f46ba6a4758b
 ## 例子：
 
 # Java Stack类

@@ -4,10 +4,15 @@
 
 # Site
 title: 海球滴 Blog
+<<<<<<< HEAD
 subtitle: (๑‾ ꇴ ‾๑)
  But how could you live and have no stories to tell...
  (๑‾ ꇴ ‾๑)
 description: ◕‿◕ 活出态度Everyday ◕‿◕
+=======
+subtitle: ◕‿◕ But how could you live and have no stories to tell... ◕‿◕
+description: (ง •̀_•́)ง 不负今日*活出态度 乀(ˉεˉ乀)
+>>>>>>> 9539ece9e3229e73ec73fcb77e78f46ba6a4758b
 author: Vito Wong
 language: zh-hk
 timezone: Asia/Shanghai
